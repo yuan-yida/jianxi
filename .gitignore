@@ -34,3 +34,8 @@ dist/
 .preview
 .cozeproj/reduction
 .codegraph
+# Cleanup of accidentally uploaded files
+/VerbFlow-project-backup.zip
+/index.js
+/index.js.map
+/index.d.ts
