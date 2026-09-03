@@ -1,0 +1,12 @@
+node_modules
+node_modules_bak
+dist
+dist-server
+assets
+*.log
+.DS_Store
+.git
+.env
+.env.*
+!.env.example
+.codebuddy

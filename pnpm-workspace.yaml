@@ -1,0 +1,6 @@
+# pnpm 11+ 项目配置（.npmrc 中的 pnpm 专属配置已迁移至此）
+packages:
+  - '.'
+settings:
+  nodeLinker: hoisted
+  packageImportMethod: copy
